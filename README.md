@@ -58,11 +58,11 @@ It enables businesses to make <b style="color:#27AE60;">data-driven decisions</b
 
 <h2 style="color:#1F618D;">📂 Project Structure</h2>
 
-<pre style="background:#F4F6F7; padding:10px; border-radius:8px;">
+<pre style="background:#F4F6F7; padding:12px; border-radius:8px;">
 📁 Retail-Sales-Dashboard
  ┣ 📄 dashboard.pbix
  ┣ 📄 dataset.csv
- ┣ 📄 README.md
+ ┗ 📄 README.md
 </pre>
 
 <hr>
@@ -87,9 +87,10 @@ It enables businesses to make <b style="color:#27AE60;">data-driven decisions</b
 <hr>
 
 <h2 style="color:#1F618D;">📬 Contact</h2>
-<p>
-If you liked this project or want to collaborate:<br>
-👉 <b>Connect with me on LinkedIn</b>
+<p align="center">
+<a href="https://www.linkedin.com/in/abhishek-ahire-49bb6a318" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Ahire-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 </p>
 
 <hr>
@@ -100,4 +101,10 @@ If you liked this project or want to collaborate:<br>
 
 <p align="center" style="color:gray;">
 Aspiring Data Analyst | Power BI Developer
+</p>
+
+<br>
+
+<p align="center">
+⭐ <b>If you found this project useful, consider giving it a star on GitHub!</b> ⭐
 </p>
