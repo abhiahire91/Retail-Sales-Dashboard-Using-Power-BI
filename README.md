@@ -1,47 +1,117 @@
-🛍️ Retail Sales Analytics Dashboard
+<h1 align="center" style="color:#2E86C1;">📊 Retail Sales Dashboard (Power BI)</h1>
 
-📌 Overview
-This project presents a comprehensive Retail Sales Analytics Dashboard designed to monitor, analyze, and visualize sales performance across multiple dimensions.
-It enables data-driven decision-making by providing deep insights into sales trends, profitability, and regional performance.
+<p align="center">
+  <b style="font-size:18px;">Interactive Business Intelligence Dashboard</b><br>
+  <span style="color:gray;">Analyze sales performance, profit trends, and customer behavior</span>
+</p>
 
-🎯 Objective
-Analyze overall sales and profit performance
-Identify trends using Year-over-Year (YoY) analysis
-Track performance across regions, categories, and segments
-Provide actionable insights for business growth
+<p align="center">
+  <img src="https://img.shields.io/badge/Tool-PowerBI-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data-Excel-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Type-Dashboard-green?style=for-the-badge"/>
+</p>
 
-📊 Key Features
-Sales Analysis by Segment
-Breakdown of total sales across different customer segments
-Payment Mode Insights
-Visualization of sales distribution by payment methods
-Category & Sub-Category Analysis
-Detailed performance tracking across product categories
-Shipping Mode Analysis
-Insights into sales based on shipping methods
-Geographical Analysis (Map Visualization)
-Sales and Profit by State
-Region-wise filtering: Central, East, South, West
-Time-Based Analysis (YoY)
-Monthly Sales Trend (Year-over-Year)
-Monthly Profit Trend (Year-over-Year)
+<hr>
 
-🚀 Tools & Technologies
-Power BI – Data Visualization & Dashboard Creation
-Data Modeling – Relationships & Data Transformation
-DAX – Calculated Measures & KPIs
-📈 Insights Delivered
-Identified high-performing regions and states
-Tracked seasonal sales and profit trends
-Highlighted top-performing categories and sub-categories
-Analyzed customer behavior based on segments and payment modes
+<h2 style="color:#1F618D;">🚀 Project Overview</h2>
+<p>
+This project presents a <b>Retail Sales Dashboard</b> built using Power BI to analyze 
+<b>sales, profit, customer segments, and regional performance</b>.  
+It enables businesses to make <b style="color:#27AE60;">data-driven decisions</b> through interactive visualizations.
+</p>
 
-💡 Business Impact
-This dashboard helps stakeholders to:
-Make informed strategic decisions
-Optimize sales strategies
-Improve profitability tracking
-Enhance regional performance analysis
+<hr>
 
-🔗 Conclusion
-The Retail Sales Analytics Dashboard provides a powerful and interactive way to explore business performance, making it a valuable tool for retail data analysis and decision-making.
+<h2 style="color:#1F618D;">🛠️ Tools & Technologies</h2>
+<ul>
+  <li><b>Power BI</b> – Dashboard & Visualization</li>
+  <li><b>Excel / CSV</b> – Data Source</li>
+  <li><b>Power Query</b> – Data Transformation</li>
+  <li><b>Data Analysis</b> – Business Insights</li>
+</ul>
+
+<hr>
+
+<h2 style="color:#1F618D;">📊 Key Features</h2>
+<ul>
+  <li>✔️ Sales & Profit analysis (Year-over-Year)</li>
+  <li>✔️ Region-wise filtering (Central, East, South, West)</li>
+  <li>✔️ Segment-wise sales distribution</li>
+  <li>✔️ Payment mode analysis (COD, Cards, Online)</li>
+  <li>✔️ Shipping mode performance tracking</li>
+  <li>✔️ Category & Sub-category insights</li>
+  <li>✔️ State-wise sales and profit visualization</li>
+</ul>
+
+<hr>
+
+<h2 style="color:#1F618D;">📈 Key Insights</h2>
+<ul>
+  <li>📌 <b>Consumer segment</b> contributes highest sales (~44%)</li>
+  <li>📌 <b>COD</b> is the most used payment method</li>
+  <li>📌 <b>Office Supplies</b> leads in category sales</li>
+  <li>📌 Strong growth observed in <b>Q4</b></li>
+  <li>📌 <b>West region</b> performs best overall</li>
+</ul>
+
+<hr>
+
+<h2 style="color:#1F618D;">📸 Dashboard Preview</h2>
+
+<p align="center">
+  <img src="dashboard.png" width="750" style="border-radius:10px; box-shadow:0px 4px 12px rgba(0,0,0,0.2);"/>
+</p>
+
+<p align="center">
+  <img src="sales_trend.png" width="750" style="border-radius:10px; box-shadow:0px 4px 12px rgba(0,0,0,0.2);"/>
+</p>
+
+<hr>
+
+<h2 style="color:#1F618D;">📂 Project Structure</h2>
+
+<pre style="background:#F4F6F7; padding:10px; border-radius:8px;">
+📁 Retail-Sales-Dashboard
+ ┣ 📄 dashboard.pbix
+ ┣ 📄 dataset.csv
+ ┣ 📄 dashboard.png
+ ┣ 📄 sales_trend.png
+ ┗ 📄 README.md
+</pre>
+
+<hr>
+
+<h2 style="color:#1F618D;">⚙️ How to Use</h2>
+<ol>
+  <li>Download the <b>.pbix</b> file</li>
+  <li>Open in <b>Power BI Desktop</b></li>
+  <li>Use filters and visuals to explore insights</li>
+</ol>
+
+<hr>
+
+<h2 style="color:#1F618D;">🌟 Highlights</h2>
+<ul>
+  <li>✔️ Clean & professional UI design</li>
+  <li>✔️ Strong business-focused insights</li>
+  <li>✔️ Real-world dataset analysis</li>
+  <li>✔️ Interactive and dynamic dashboard</li>
+</ul>
+
+<hr>
+
+<h2 style="color:#1F618D;">📬 Contact</h2>
+<p>
+If you liked this project or want to collaborate:<br>
+👉 <b>Connect with me on LinkedIn</b>
+</p>
+
+<hr>
+
+<h3 align="center" style="color:#2E86C1;">
+👨‍💻 Developed by Abhishek Ahire
+</h3>
+
+<p align="center" style="color:gray;">
+Aspiring Data Analyst | Power BI Developer
+</p>
