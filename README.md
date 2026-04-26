@@ -56,27 +56,13 @@ It enables businesses to make <b style="color:#27AE60;">data-driven decisions</b
 
 <hr>
 
-<h2 style="color:#1F618D;">📸 Dashboard Preview</h2>
-
-<p align="center">
-  <img src="dashboard.png" width="750" style="border-radius:10px; box-shadow:0px 4px 12px rgba(0,0,0,0.2);"/>
-</p>
-
-<p align="center">
-  <img src="sales_trend.png" width="750" style="border-radius:10px; box-shadow:0px 4px 12px rgba(0,0,0,0.2);"/>
-</p>
-
-<hr>
-
 <h2 style="color:#1F618D;">📂 Project Structure</h2>
 
 <pre style="background:#F4F6F7; padding:10px; border-radius:8px;">
 📁 Retail-Sales-Dashboard
  ┣ 📄 dashboard.pbix
  ┣ 📄 dataset.csv
- ┣ 📄 dashboard.png
- ┣ 📄 sales_trend.png
- ┗ 📄 README.md
+ ┣ 📄 README.md
 </pre>
 
 <hr>
